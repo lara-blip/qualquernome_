@@ -2,13 +2,13 @@
 
 > Status do projeto: Em desenvolvimento pelos alunos do IFRO
 
-Para rodar esse projeto em seu computador, é preciso instalar e configurar o Boostrap
+Para rodar esse projeto em seu computador, é preciso instalar e configurar o Bootstrap
 
 ### Instalar via gerenciador de pacotes
 
 ```
-npm install boostrap@5.3.0-alpha1
+npm install bootstrap@5.3.0-alpha1
 ```
 
 ```
-gem install boostrap -v 5.3.0 -alpha1
+gem install bootstrap -v 5.3.0 -alpha1
